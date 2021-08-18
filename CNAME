@@ -1,2 +1,3 @@
 dig 37l80.COM +noall +answer
-> 37l80.COM     3600    IN CNAME     defpress.github.io.
+> 37l80.COM     3600    IN cname     defpress.github.io/blog.
+
